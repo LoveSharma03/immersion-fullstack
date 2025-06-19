@@ -1,0 +1,23 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 100px;
+    background-color: aliceblue;
+}
+.stopwatch{
+    font-size: 48px;
+    margin-bottom: 30px;
+}
+.buttons button{
+    font-size: 20px;
+    padding: 10px 20px;
+    margin: 0px 10px;
+    cursor: pointer;
+    background-color:black;
+    color:white;
+    border: none;
+    border-radius: 5px;
+}
+.buttons button:hover{
+    background-color: aquamarine;
+}
